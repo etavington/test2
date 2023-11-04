@@ -1,5 +1,5 @@
 12
 AAAA
 1
-BBB
-A
+BBBBB
+B
