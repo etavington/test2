@@ -1,9 +1,5 @@
 12
 AAAA
 1
-<<<<<<< HEAD
 BBB
 A
-=======
-BBBBB
->>>>>>> e90a528ee5af84342df05304b68b60904d06c86d
